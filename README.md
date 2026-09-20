@@ -1,0 +1,1 @@
+This is a small program designed for analyzing personal consumption. By inputting the date, category and amount, it can output the total consumption, categorized consumption, the largest category and the average consumption.
